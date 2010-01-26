@@ -1,0 +1,20 @@
+# libevent-python
+# Copyright (c) 2006 Andy Gross <andy@andygross.org>.
+# Copyright (c) 2006 Nick Mathewson.
+# See LICENSE.txt for licensing details.
+
+# Installation instructions for libevent-python
+
+1) Install libevent (http://www.monkey.org/~provos/libevent/)
+  
+  libevent-python tracks the most-recent stable release, available from the
+  url above.  
+
+2) Install libevent-python 
+
+  %  python setup.py install
+
+3) Test libevent-python
+
+  % python setup.py test
+

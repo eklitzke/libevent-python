@@ -1,0 +1,5 @@
+* More documentation
+* Buffered events
+* Twisted integration
+* More examples
+* Support for libevent-CVS features

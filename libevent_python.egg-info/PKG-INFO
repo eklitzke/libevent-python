@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: libevent-python
+Version: 0.1a8
+Summary: A CPython extension module wrapping the libevent library
+Home-page: http://python-hpio.net/trac/wiki/LibEventPython
+Author: Andy Gross
+Author-email: andy@andygross.org
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: Internet
