@@ -345,6 +345,7 @@ static void __libevent_ev_callback(int fd, short events, void *arg) {
        int r  = PyThreadState_SetAsyncExc(ts->thread_id, EventErrorObject);
        printf("%d\n", r);
       */
+      PyErr_Print();
       PyErr_WriteUnraisable(ev->callback);
 
     }
